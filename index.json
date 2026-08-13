@@ -1,204 +1,204 @@
 [
   {
-    "name": "InManga",
+    "name": "InManga · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.inmanga",
     "apk": "inmanga.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 6963106975536326424,
+        "id": 701220073638493844,
         "lang": "es",
-        "name": "InManga",
+        "name": "InManga · JM",
         "baseUrl": "https://inmanga.com"
       }
     ]
   },
   {
-    "name": "Lectormanga",
+    "name": "Lectormanga · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
     "apk": "lectormanga.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
-        "id": 7925520943983324764,
+        "id": 7405461685642492893,
         "lang": "es",
-        "name": "Lectormanga",
+        "name": "Lectormanga · JM",
         "baseUrl": "https://lectormangass.net"
       }
     ]
   },
   {
-    "name": "LeerManhwas",
+    "name": "LeerManhwas · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.leermanhwas",
     "apk": "leermanhwas.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
-        "id": 8701445043633550960,
+        "id": 4526688466564360819,
         "lang": "es",
-        "name": "LeerManhwas",
+        "name": "LeerManhwas · JM",
         "baseUrl": "https://leermanhwas.com"
       }
     ]
   },
   {
-    "name": "MangaLovers",
+    "name": "MangaLovers · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangalovers",
     "apk": "mangalovers.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 1110666687611953794,
+        "id": 7723784562245668593,
         "lang": "es",
-        "name": "MangaLovers",
+        "name": "MangaLovers · JM",
         "baseUrl": "https://mangalovers.josenunez.cl"
       }
     ]
   },
   {
-    "name": "MangaOni",
+    "name": "MangaOni · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangaoni",
     "apk": "mangaoni.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
-        "id": 2342274476374431513,
+        "id": 3557430654703602460,
         "lang": "es",
-        "name": "MangaOni",
+        "name": "MangaOni · JM",
         "baseUrl": "https://manga-oni.com"
       }
     ]
   },
   {
-    "name": "MangaPlus",
+    "name": "MangaPlus · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangaplus",
     "apk": "mangaplus.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 2479474967719460089,
+        "id": 8149104385634508013,
         "lang": "es",
-        "name": "MangaPlus",
+        "name": "MangaPlus · JM",
         "baseUrl": "https://mangaplus.shueisha.co.jp"
       }
     ]
   },
   {
-    "name": "Manhwa-es",
+    "name": "Manhwa-es · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaes",
     "apk": "manhwaes.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 867320408648514659,
+        "id": 8227789885745427066,
         "lang": "es",
-        "name": "Manhwa-es",
+        "name": "Manhwa-es · JM",
         "baseUrl": "https://manhwa-es.com"
       }
     ]
   },
   {
-    "name": "ManhwaWeb",
+    "name": "ManhwaWeb · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
     "apk": "manhwaweb.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
-        "id": 5943212552955476721,
+        "id": 3482896421952136921,
         "lang": "es",
-        "name": "ManhwaWeb",
+        "name": "ManhwaWeb · JM",
         "baseUrl": "https://manhwaweb.com"
       }
     ]
   },
   {
-    "name": "Olympus",
+    "name": "Olympus · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympus",
     "apk": "olympus.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 4629124532272720968,
+        "id": 2800788206653064529,
         "lang": "es",
-        "name": "Olympus",
+        "name": "Olympus · JM",
         "baseUrl": "https://olympusxyz.com"
       }
     ]
   },
   {
-    "name": "ShadeManga",
+    "name": "ShadeManga · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.shademanga",
     "apk": "shademanga.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 3872946430017057452,
+        "id": 5540362779967624490,
         "lang": "es",
-        "name": "ShadeManga",
+        "name": "ShadeManga · JM",
         "baseUrl": "https://shademanga.com"
       }
     ]
   },
   {
-    "name": "SpnManga",
+    "name": "SpnManga · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.spnmanga",
     "apk": "spnmanga.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
-        "id": 8680653475935544022,
+        "id": 1987019643386225162,
         "lang": "es",
-        "name": "SpnManga",
+        "name": "SpnManga · JM",
         "baseUrl": "https://spnmanga.com"
       }
     ]
   },
   {
-    "name": "ZonaTMO",
+    "name": "ZonaTMO · JM",
     "pkg": "eu.kanade.tachiyomi.extension.es.zonatmo",
     "apk": "zonatmo.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
-        "id": 8492615695108145656,
+        "id": 1921252498661190059,
         "lang": "es",
-        "name": "ZonaTMO",
+        "name": "ZonaTMO · JM",
         "baseUrl": "https://zonatmo.org"
       }
     ]
