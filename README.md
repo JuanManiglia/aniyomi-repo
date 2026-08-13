@@ -4,11 +4,10 @@ Extensiones personales de manga/manhwa/manhua en español (uso experimental).
 
 ## Cómo añadirlo en Aniyomi
 
-Ajustes → Explorar → **Repositorios de extensiones (manga)** → Añadir, y pega esta URL
-**BASE** (sin `/index.min.json` al final):
+Ajustes → Explorar → **Repositorios de extensiones (manga)** → Añadir, y pega esta URL (COMPLETA, terminada en `/index.min.json`):
 
 ```
-https://raw.githubusercontent.com/JuanManiglia/aniyomi-repo/main
+https://raw.githubusercontent.com/JuanManiglia/aniyomi-repo/main/index.min.json
 ```
 
 Aniyomi (0.18+) valida el repo leyendo `repo.json` de esa base, y luego carga la lista
