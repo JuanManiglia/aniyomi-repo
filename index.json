@@ -7,15 +7,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "InManga",
         "lang": "es",
         "id": "6963106975536326424",
-        "baseUrl": "https://inmanga.com",
-        "versionId": 1
+        "baseUrl": "https://inmanga.com"
       }
     ]
   },
@@ -27,15 +24,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "Lectormanga",
         "lang": "es",
         "id": "7925520943983324764",
-        "baseUrl": "https://lectormangass.net",
-        "versionId": 1
+        "baseUrl": "https://lectormangass.net"
       }
     ]
   },
@@ -47,15 +41,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "LeerManhwas",
         "lang": "es",
         "id": "8701445043633550960",
-        "baseUrl": "https://leermanhwas.com",
-        "versionId": 1
+        "baseUrl": "https://leermanhwas.com"
       }
     ]
   },
@@ -67,15 +58,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "MangaLovers",
         "lang": "es",
         "id": "1110666687611953794",
-        "baseUrl": "https://mangalovers.josenunez.cl",
-        "versionId": 1
+        "baseUrl": "https://mangalovers.josenunez.cl"
       }
     ]
   },
@@ -87,15 +75,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "MangaOni",
         "lang": "es",
         "id": "2342274476374431513",
-        "baseUrl": "https://manga-oni.com",
-        "versionId": 1
+        "baseUrl": "https://manga-oni.com"
       }
     ]
   },
@@ -107,15 +92,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "MangaPlus",
         "lang": "es",
         "id": "2479474967719460089",
-        "baseUrl": "https://mangaplus.shueisha.co.jp",
-        "versionId": 1
+        "baseUrl": "https://mangaplus.shueisha.co.jp"
       }
     ]
   },
@@ -127,15 +109,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "Manhwa-es",
         "lang": "es",
         "id": "867320408648514659",
-        "baseUrl": "https://manhwa-es.com",
-        "versionId": 1
+        "baseUrl": "https://manhwa-es.com"
       }
     ]
   },
@@ -147,15 +126,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "ManhwaWeb",
         "lang": "es",
         "id": "5943212552955476721",
-        "baseUrl": "https://manhwaweb.com",
-        "versionId": 1
+        "baseUrl": "https://manhwaweb.com"
       }
     ]
   },
@@ -167,15 +143,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "Olympus",
         "lang": "es",
         "id": "4629124532272720968",
-        "baseUrl": "https://olympusxyz.com",
-        "versionId": 1
+        "baseUrl": "https://olympusxyz.com"
       }
     ]
   },
@@ -187,15 +160,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "ShadeManga",
         "lang": "es",
         "id": "3872946430017057452",
-        "baseUrl": "https://shademanga.com",
-        "versionId": 1
+        "baseUrl": "https://shademanga.com"
       }
     ]
   },
@@ -207,15 +177,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "SpnManga",
         "lang": "es",
         "id": "8680653475935544022",
-        "baseUrl": "https://spnmanga.com",
-        "versionId": 1
+        "baseUrl": "https://spnmanga.com"
       }
     ]
   },
@@ -227,15 +194,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "ZonaTMO",
         "lang": "es",
         "id": "8492615695108145656",
-        "baseUrl": "https://zonatmo.org",
-        "versionId": 1
+        "baseUrl": "https://zonatmo.org"
       }
     ]
   }
