@@ -1,17 +1,25 @@
-# Repositorio de extensiones para Aniyomi/Mihon
+# Repositorio de extensiones para Aniyomi
 
 Extensiones personales de manga/manhwa/manhua en español (uso experimental).
 
 ## Cómo añadirlo en Aniyomi
 
-Ajustes → Explorar → Repositorios de extensiones → Añadir, y pega esta URL:
+Ajustes → Explorar → **Repositorios de extensiones (manga)** → Añadir, y pega esta URL
+**BASE** (sin `/index.min.json` al final):
 
 ```
-https://raw.githubusercontent.com/JuanManiglia/aniyomi-repo/main/index.min.json
+https://raw.githubusercontent.com/JuanManiglia/aniyomi-repo/main
 ```
 
-Luego ve a Explorar → Extensiones, instala las que quieras y pulsa **Confiar**
-(son de firma propia, por eso Aniyomi las marca como no confiables).
+Aniyomi (0.18+) valida el repo leyendo `repo.json` de esa base, y luego carga la lista
+desde `index.min.json`. Como el `repo.json` declara la huella de firma de los APKs, las
+extensiones se instalan ya confiadas.
 
-Contiene 12 fuentes en español. Los APKs son debug-signed. El código fuente no se
-publica aquí; solo los APKs compilados y el índice.
+Luego ve a Explorar → Extensiones y instala las que quieras (12 fuentes ES).
+
+## Estructura
+- `repo.json` — metadatos del repo + huella SHA-256 del certificado de firma.
+- `index.min.json` — índice de extensiones (nombre, paquete, versión, nsfw, baseUrl, id).
+- `apk/*.apk` — los APKs (debug-signed con la misma clave).
+
+El código fuente no se publica aquí; solo los APKs compilados y los índices.
